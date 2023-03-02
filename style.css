@@ -138,6 +138,7 @@ h2 {
 	display: grid;
 	grid-gap: 2rem;
 	padding: 3rem 1.5rem;
+	background-color: #ecf2f7;
 }
 @media (min-width: 900px) {
 	.testimonials {
